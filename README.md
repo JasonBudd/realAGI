@@ -1,7 +1,3 @@
-DISCLAIMER: Noxa exit scammed their project. I talked to the team which they gave me hopes so I rebought the old coin.
-After a couple of hours they blocked me.
-
-I talked to the pons team and decided to launch and run my coin on pons.family
 
 <p align="center">
 <div align="center">
