@@ -7,7 +7,7 @@ I talked to the pons team and decided to launch and run my coin on pons.family
 <div align="center">
   <img src="https://i.ibb.co/fzxSyy47/Screenshot-2026-07-11-at-3-07-50-am.png" width="100"/>
 </div>
-</p>
+</p> 
 
 <div align="center">
 $AGI on Pons.family: 0x819bd86a3fc9bc75c30b0c119e73d2e02cf21721
