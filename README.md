@@ -6,7 +6,7 @@
 </p> 
 
 <div align="center">
-$AGI on Pons.family: 0x819bd86a3fc9bc75c30b0c119e73d2e02cf21721
+$AGI: 0x92acb3294dcfda4b926665d738ecdf59499b6461
 
 <h1 align="center"> (Real)AGI 🌐 </h1> 
 <p align="center"><strong>A very real AGI that can maybe help with options market predictions. maybe.</strong></p>
