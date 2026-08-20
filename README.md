@@ -68,4 +68,4 @@ if updated_strategy.confidence > 0.9999 {
     Regent::execute_trade(agent_id, updated_strategy.optimal_order);
 }
 
-Support RealAGI! ```0x40398f28b161abbc05e408a27ee35684c5aa3b69``` 
+Support RealAGI! ```DK5SdVtbW4HqEpX1Lww6rSewGaTUWNSifc3d9fjfBTeE``` 
